@@ -25,6 +25,7 @@ How do you copy files and directories?
 What is the difference between cp and mv commands?
 How do you delete files and directories in Linux?
 What is the command to rename the file?
+mv command for rename the file
 Which commands do you used to read the file?
 What is the difference between head and tail command?
 How will you list the hidden files?
