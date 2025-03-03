@@ -86,11 +86,24 @@ Alias lets you create a command file name or any shell text
 #Linux File System Hierarchy :
 
 What is the purpose of the root (/) directory in Linux?
+In the linux 
 What is the difference between /bin and /sbin?
+bin files are available to all users, while sbin files are usually restricted to system administrators
+
 What is the purpose of the /etc directory?
+The purpose of the /etc directory in a linux system serves as a central repository for storing critical system
+configuration files
+
 What type of files are stored in the /home directory?
+In the home directory strored all local users files
+
 What is the use of the /root directory?
+The root directory is the topmost level of a file system,acting as the starting point
+from which all other files and folders branch out, essentially serving as the foundation
+for organizing all data on a computer or device
+
 What is the difference between a relative path and an absolute path in the Linux file system?
+
 How can you check the disk usage of a specific directory?
 What is the default mount point for external devices in Linux?
 
