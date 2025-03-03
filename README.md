@@ -16,6 +16,8 @@ The linux kernel is the core of the linux operating system OS that manages
 hardware and software interactions
 
 What are the advantages of using Linux ?
+The advantages of using linux is security, stability, and customization.
+
 What are the different types of Linux distributions ?
 Explain the Linux architecture ?
 What is shell ?
