@@ -74,9 +74,14 @@ What is command to check kernel name and version?
 To check for kernel name command uname and for a version command uname -r
 
 What is the use of tree command?
+The tree command displays the direcotry structure of a path or disk in a tree like
+format
 
 How will you check current working directory?
+use the pwd command to check current working directory
+
 What does the alias command do?
+Alias lets you create a command file name or any shell text
 
 #Linux File System Hierarchy :
 
