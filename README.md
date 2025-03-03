@@ -121,21 +121,34 @@ Vim is a free opensource text editor that's available
 on many platforms 
 
 What are the different modes in Vim?
-command mode
-insert mode
-execute mode
+command mode,
+insert mode,
+normal mode,
+execute mode and
 visual mode
 
 How do you switch between insert mode and command mode?
 To switch between insert mode and command mode press the Esc key once
 
 By default which mode get open when you use the vim editor?
+Normal mode
 
 How do you copy and paste text in Vim?
+You can copy with the y (yank) command and paste with p (put)
+
 How do you delete a line in Vim?
+The command to delete is d. you can move to the beginning of
+the line,press v,move to the end of the line,and press d.
+
 How do you undo and redo changes in Vim?
+Vim undo feature allows you to reverse unwanted changes with the u command and restore them using Ctrl +r.
+
 How do you exit Vim without saving changes?
+You want to exit vim without saving chages use the :q! command
+
 How do you exit Vim with saving changes?
+If you want to save your changes and exit vim you can use the :wq! command
+
 How do you search for a specific word or pattern in a file?
 How do you perform a search and replace in Vim?
 How do you move to the beginning or end of a line in Vim?
