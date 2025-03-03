@@ -58,12 +58,23 @@ What is the command to rename the file?
 mv command for rename the file
 
 Which commands do you used to read the file?
+cat command for the read the file
 
 What is the difference between head and tail command?
+The difference between both the commands is head prints the lines from the beginning of the files,
+and tail prints the lines from the end of the files
+
 How will you list the hidden files?
+ls -a command for list the hidden files
+
 What is the purpose of the cat command?
+cat command it used for displaying, combining and manipulating text files
+
 What is command to check kernel name and version?
+To check for kernel name command uname and for a version command uname -r
+
 What is the use of tree command?
+
 How will you check current working directory?
 What does the alias command do?
 
