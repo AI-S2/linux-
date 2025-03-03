@@ -49,10 +49,16 @@ where you want the copy to be placed
 
 
 What is the difference between cp and mv commands?
+cp command for copies a file or directory, while mv command for moves or renames a file or directory.
+
 How do you delete files and directories in Linux?
+To delete files and directories in linux use command rm for files and rmdir for directories
+
 What is the command to rename the file?
 mv command for rename the file
+
 Which commands do you used to read the file?
+
 What is the difference between head and tail command?
 How will you list the hidden files?
 What is the purpose of the cat command?
