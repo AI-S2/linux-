@@ -35,11 +35,19 @@ A shell is a computer program that allows users to interact with an operating sy
 #Basic Commands :
 
 What command is used to display the current date and time?
+The date command
+
 What is the purpose of the ls command?
 The ls command purpose is the lists files and directories in a file system
 
 How do you create a new directory and file in Linux?
+To create a new directory in linux use the command mkdir and for a creat file in linux use touch command
+
 How do you copy files and directories?
+To copy files or directories in linux use the cp command followed by the source file or directory path then the destination path
+where you want the copy to be placed
+
+
 What is the difference between cp and mv commands?
 How do you delete files and directories in Linux?
 What is the command to rename the file?
