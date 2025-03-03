@@ -24,6 +24,11 @@ linux mint, Arch linux, Centos, Manjaro and Gentoo
 
 
 Explain the Linux architecture ?
+The linux architecture is structured around a core component called the Kernel which directly
+interface with the hardware, while user applications and a shell interface allow users to 
+interact with the system.
+
+
 What is shell ?
 
 #Basic Commands :
