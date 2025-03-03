@@ -103,10 +103,16 @@ from which all other files and folders branch out, essentially serving as the fo
 for organizing all data on a computer or device
 
 What is the difference between a relative path and an absolute path in the Linux file system?
+In a linux file system an absolute path is a complete file location starting from the root directory
+(/) specifying every directory leadingto a specific file while a relative path describes a file
+location relative to the current working directory
 
 How can you check the disk usage of a specific directory?
-What is the default mount point for external devices in Linux?
+To check the disk usage of a specific directory use the du command followed by the directory
+path you want to analyze
 
+What is the default mount point for external devices in Linux?
+In linux the default mount point for external devices like USB drives is typically /media
 
 #Vim editor :
 
