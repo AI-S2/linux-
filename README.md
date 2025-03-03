@@ -20,6 +20,8 @@ What is shell ?
 
 What command is used to display the current date and time?
 What is the purpose of the ls command?
+The ls command purpose is the lists files and directories in a file system
+
 How do you create a new directory and file in Linux?
 How do you copy files and directories?
 What is the difference between cp and mv commands?
