@@ -10,7 +10,11 @@ What are the differences between Linux and Windows and Unix?
 linux is open source ,strong network security
 windows is closed source ,poore network security
 unix is closed source, strong network security
+
 What is the Linux kernel ?
+The linux kernel is the core of the linux operating system OS that manages
+hardware and software interactions
+
 What are the advantages of using Linux ?
 What are the different types of Linux distributions ?
 Explain the Linux architecture ?
