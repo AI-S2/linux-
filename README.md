@@ -117,9 +117,20 @@ In linux the default mount point for external devices like USB drives is typical
 #Vim editor :
 
 What is Vim editor?
+Vim is a free opensource text editor that's available 
+on many platforms 
+
 What are the different modes in Vim?
+command mode
+insert mode
+execute mode
+visual mode
+
 How do you switch between insert mode and command mode?
+To switch between insert mode and command mode press the Esc key once
+
 By default which mode get open when you use the vim editor?
+
 How do you copy and paste text in Vim?
 How do you delete a line in Vim?
 How do you undo and redo changes in Vim?
