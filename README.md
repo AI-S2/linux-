@@ -19,6 +19,10 @@ What are the advantages of using Linux ?
 The advantages of using linux is security, stability, and customization.
 
 What are the different types of Linux distributions ?
+Linux distributions fedora,ubuntu,debian,red hat,enterprise linux,
+linux mint, Arch linux, Centos, Manjaro and Gentoo
+
+
 Explain the Linux architecture ?
 What is shell ?
 
