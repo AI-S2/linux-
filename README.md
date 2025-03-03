@@ -30,6 +30,7 @@ interact with the system.
 
 
 What is shell ?
+A shell is a computer program that allows users to interact with an operating system OS.
 
 #Basic Commands :
 
