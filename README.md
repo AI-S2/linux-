@@ -229,9 +229,16 @@ Ans: To remove a user from a group you can use
 
 What is a primary group and a supplementary group?
 Ans:
+
 How do you change a user's primary group?
+Ans:
+
 How do you view the groups a user belongs to?
+Ans:
+
 How do you change group ownership of a file or directory?
+Ans: To change group ownership of file or directory you can use chgrp command
+
 How do you change the password of group?
 
 #File Permissions and Access Control :
@@ -267,8 +274,10 @@ How many type of link files in Linux system?
 Ans: There is two type of link files in linuux system hardlink and softlink
 
 What is the difference between hard link and Soft link?
-Ans:
-
+Ans:Hardlink contain actual data from the file
+    Softlink contain path of original file and not the 
+    actual data
+    
 #Archive and Compression :
 
 What is the purpose of archive?
